@@ -29,14 +29,33 @@ public class HlavniProgram {
         zofka.turnRight(45);
         zofka.move(100);
         zofka.turnRight(45);
+
         zofka.move(200);
         zofka.turnRight(90);
         zofka.move(150);
         zofka.move(30);
         zofka.turnRight(180);
         zofka.move(50);
-        zofka.turnLeft(45);
+        zofka.turnLeft(135);
         zofka.move(50);
+        zofka.turnLeft(180);
+        zofka.move(50);
+        zofka.turnLeft(135);
+        zofka.move(200);
+        zofka.turnLeft(90);
+        zofka.move(50);
+        zofka.turnLeft(180);
+        zofka.move(50);
+        zofka.turnLeft(135);
+        zofka.move(50);
+        zofka.turnLeft(180);
+        zofka.move(50);
+        zofka.turnLeft(45);
+        zofka.move(130);
+        zofka.turnLeft(135);
+        zofka.move(100);
+        zofka.turnLeft(95);
+        zofka.move(100);
     }
 
 }
